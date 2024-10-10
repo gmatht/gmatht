@@ -12,6 +12,8 @@ If you aren't going to work with DAT, you probably want to set DAT_EXTENSIONS to
  <img src="https://github.com/user-attachments/assets/e41fb731-dfb4-45ac-9ffe-82aa835dfd9f" alt="DTimer Screenshot" width="50%">
 </p>
 
+If you want to work for DAT you can use my referral code: 2ZbHGEA
+
 ### LyX-GC (Perl)
 
 A Grammar Checker for LyX and LaTeX. There is an [online demo](http://mccabedj.ucc.asn.au/checktex.html), and [github repo](https://github.com/gmatht/lyx-gc).
