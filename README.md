@@ -1,19 +1,5 @@
 ## John C. McCabe-Dansted's Profile 👋
 
-### DTimer (Python)
-
-I wasn't happy with the existing time management software, 
-so I made [a Python script](https://github.com/gmatht/joshell/blob/816b51707416b444111e07b74489d552e12bcd78/py/dtimer.pyw) to record my time.
-It records window titles so you can audit how you spent your time and a deadline clock.
-You should be able to tweak it to fit your needs.
-I tweaked it for use with Data Annotation Tech; For example, it warns you if you are recording billable time but have not Enter(ed) Work Mode on DAT's website.
-If you aren't going to work with DAT, you probably want to set DAT_EXTENSIONS to false.
-<p align="center">
- <img src="https://github.com/user-attachments/assets/e41fb731-dfb4-45ac-9ffe-82aa835dfd9f" alt="DTimer Screenshot" width="50%">
-</p>
-
-If you want to work for DAT you can use my referral code: 2ZbHGEA
-
 ### LyX-GC (Perl)
 
 A Grammar Checker for LyX and LaTeX. There is an [online demo](http://mccabedj.ucc.asn.au/checktex.html), and [github repo](https://github.com/gmatht/lyx-gc).
